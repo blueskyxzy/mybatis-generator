@@ -5,3 +5,4 @@
     本例是从 /.m2私人仓库配置的，需要使用其他版本jar或者引到本地需要修改配置文件
 2.修改配置文件genetator.properties和genetatorConfig.xml文件
 3.Idea配置 - Edit Configurations- Maven  Command-line添加mybatis-generator:generate -e,其他随便，如图：
+4.run genetator即可
