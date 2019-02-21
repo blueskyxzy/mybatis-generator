@@ -1,0 +1,2 @@
+
+如果报错Unknown system variable 'query_cache_size'，说明版本低了或者不匹配，升级mysql-connector-java，并修改配置
